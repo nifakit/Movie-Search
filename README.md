@@ -1,4 +1,4 @@
-# MyReact
+# movie-search
 
 This project was created as a copy of a provided template. The only change from the original is the project name set to `MyReact`.
 
